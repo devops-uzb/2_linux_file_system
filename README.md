@@ -56,3 +56,6 @@ $ mkdir test
 ## &> - directs both standard output and standard error to the file.
 ## >> -  directs the output of a command to a file, adding the output to the end of the existing file.
 
+![task7](./img/1.52.PNG)
+
+![task8](./img/1.51.PNG)
