@@ -59,3 +59,7 @@ $ mkdir test
 ![task7](./img/1.52.PNG)
 
 ![task8](./img/1.51.PNG)
+
+## Understanding File Permissions and Ownership
+## 1.6 Learn deeply file types
+## For a regular file, a dash appears in front of the nine-bit permissions indicator. Instead of a dash, you might see a d (for a directory), l (for a symbolic link), b (for a block device), c (for a character device), s (for a socket), or p (for a named pipe).
