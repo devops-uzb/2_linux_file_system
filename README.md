@@ -63,3 +63,21 @@ $ mkdir test
 ## Understanding File Permissions and Ownership
 ## 1.6 Learn deeply file types
 ## For a regular file, a dash appears in front of the nine-bit permissions indicator. Instead of a dash, you might see a d (for a directory), l (for a symbolic link), b (for a block device), c (for a character device), s (for a socket), or p (for a named pipe).
+
+
+## Homework ##
+## 1. Install tree package
+## a. learn about tree
+## b. use it and take screenshots
+
+![task9](./img/h1.PNG)
+
+
+# 2. Create a directory in your home directory called projects. In the projects directory, create nine empty files that are named house1, house2, house3, and so on up to house9. Assuming that there are lots of other files in that directory, come up with a single argument to ls that would list just those nine files.
+
+[!task10](./img/h2.PNG)
+
+# 3.Make the $HOME/projects/houses/doors/ directory path. Create the following empty files within this directory path (try using absolute and relative paths from your home directory):
+## $HOME/projects/houses/bungalow.txt
+## $HOME/projects/houses/doors/bifold.txt
+## $HOME/projects/outdoors/vegetation/landscape.txt
