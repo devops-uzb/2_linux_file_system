@@ -81,3 +81,32 @@ $ mkdir test
 ## $HOME/projects/houses/bungalow.txt
 ## $HOME/projects/houses/doors/bifold.txt
 ## $HOME/projects/outdoors/vegetation/landscape.txt
+
+# 4. Copy the files house1 and house5 to the $HOME/projects/houses/ directory. ##
+
+[!task11](./img/4.PNG)
+
+
+# 5. Recursively copy the /usr/share/doc/in* directory to the $HOME/projects/ directory. Maintain the current date/time stamps and permissions.
+
+[!task12](./img/5.1.PNG)
+
+# 6. Remove the files house6, house7, and house8 without being prompted
+
+[!task13](./img/5.111.PNG)
+
+# 7. Move house3 and house4 to the $HOME/projects/houses/doors directory.
+
+[!task14](./img/7.1.PNG)
+
+# 8. Remove the $HOME/projects/houses/doors directory and its contents.
+
+[!task15](./img/8.1.PNG)
+
+# 9. Change the permissions on the $HOME/projects/house2 file so that it can be read by and written to by the user who owns the file, only read by the group, and have no permission for others.
+
+[!task16](./img/9.1.PNG)
+
+# 10. Recursively change permissions of the $HOME/projects/ directory so that nobody has write permission to any files or directory beneath that point in the filesystem.
+
+[!task17](./img/10.PNG)
